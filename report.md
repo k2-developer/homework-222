@@ -7,7 +7,7 @@
 На тестирование затрачено: 10 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [ISSUE 1](https://github.com/k2wln/homework-222/issues/1)
+* The program validates cards only with the standard number of characters (16) [Click to ISSUE](https://github.com/k2wln/homework-222/issues/1)
 
 ## Описание процесса тестирования
 
